@@ -1,2 +1,2 @@
 # desafio.github
-Desafio de Projeto sobre Github - Meu primeiro repositorio 
+Desafio de Projeto sobre Git/Github - Meu primeiro repositorio 
